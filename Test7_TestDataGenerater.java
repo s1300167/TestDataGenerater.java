@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class TestDataGenerater {
+public class Test7_TestDataGenerater {
 	
 	private static final Random random = new Random();
 	
